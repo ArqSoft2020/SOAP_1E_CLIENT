@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/u_learn/ws/service/CoursesList.java=UTF-8
+encoding//src/com/u_learn/ws/service/SoapCoursesListService.java=UTF-8
+encoding//src/com/u_learn/ws/service/SoapCoursesListServiceLocator.java=UTF-8
+encoding//src/com/u_learn/ws/service/SoapCoursesListServiceSoapBindingStub.java=UTF-8
+encoding//src/org/tempuri/CoursePojo.java=UTF-8
