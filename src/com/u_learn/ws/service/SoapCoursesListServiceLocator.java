@@ -22,7 +22,7 @@ public class SoapCoursesListServiceLocator extends org.apache.axis.client.Servic
     }
 
     // Use to get a proxy class for CoursesList
-    private java.lang.String CoursesList_address = "http://172.22.0.2:8080/ulearn/soap/CoursesListService";
+    private java.lang.String CoursesList_address = "http://52.44.189.41:7500/ulearn/soap/CoursesListService";
 
     public java.lang.String getCoursesListAddress() {
         return CoursesList_address;
